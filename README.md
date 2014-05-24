@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-A reporsitory for Data Scientist Toolbox
+A repository for Data Scientist Toolbox
